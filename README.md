@@ -1,5 +1,3 @@
-
------------------------------------------------------------
 ## COBOL Examples
 Examples for OpenCobol (Gnu Cobol) 
 
