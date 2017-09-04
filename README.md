@@ -1,28 +1,21 @@
-## COBOL Examples
-Examples for OpenCobol (Gnu Cobol) 
+Project COBOL
+============
+- Examples for OpenCobol (Gnu Cobol)
+- Examples for AS400
+- Examples for ILE Cobol, ILE CL
 
-
------------------------------------------------------------
-## AS400 Examples
-Examples for AS400 Cobol
-
-
------------------------------------------------------------
-## ILE COBOL, ILE CL Examples
-Examples for ILE Cobol, ILE CL
-
-
------------------------------------------------------------
-## For contributions 
+For contributions 
+============
 ### Contribution are welcome !
 
 -----------------------------------------------------------
------------------------------------------------------------
 
-## IDE for Cobol is here:
+IDE for OpenCobol
+============
 https://opencobolide.readthedocs.org/en/latest/download.html
 
-## SQL DATABASE with OpenCOBOL:
+SQL DATABASE
+============
 
 ### SQLITE 
 https://github.com/Martinfx/SQLiteCobol
@@ -30,3 +23,7 @@ https://github.com/Martinfx/SQLiteCobol
 ### DBPRE
 https://github.com/Martinfx/DBPRE
 
+## License
+>You can check out the full license [here](https://github.com/Martinfx/Cobol/blob/master/LICENSE)
+
+This project is licensed under the terms of the **GNU General Public License v3.0** license.
